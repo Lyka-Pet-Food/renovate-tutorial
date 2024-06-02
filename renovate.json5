@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:best-practices"
+  ],
+  "timezone": "Australia/Sydney",
+  "schedule": ["every 4 weeks on Monday before 6am"],
+  "reviewersFromCodeOwners": true,
+}
